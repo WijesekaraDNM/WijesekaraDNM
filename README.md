@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Disaster Management System](https://github.com/WijesekaraDNM/Disaster_Management_System.git)
 
-- 🌱 I’m currently learning **Python, Java, Flutter**
+- 🌱 I’m currently learning **Angular, DevOps,AWS**
 
 - 💬 Ask me about **MERN, C++, C#, C, Python**
 
