@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Java, Flutter**
 
-- 💬 Ask me about **MERN, C++, C#, C, Python, Kotlin**
+- 💬 Ask me about **MERN, C++, C#, C, Python**
 
 - 📫 How to reach me **dnm.wijesekara@gmail.com**
 
