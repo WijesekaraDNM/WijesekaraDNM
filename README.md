@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuwani Wijesekara</h1>
 <h3 align="center">BSc(Hons),Computer Engineering (UG) <br>Faculty of Engineering <br> University of Ruhuna <br>Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Disaster Management System](https://github.com/WijesekaraDNM/Disaster_Management_System.git)
+- 🔭 I’m currently working on [Personal AI]
 
 - 🌱 I’m currently learning **Angular, DevOps,AWS**
 
